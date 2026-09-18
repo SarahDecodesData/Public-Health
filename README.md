@@ -41,7 +41,7 @@ The project uses descriptive analysis and survey weights to estimate vaccination
 
 ## Data
 
-The analysis uses the [**NICS Child (CH) dataset**](#https://microdata.nigerianstat.gov.ng/index.php/cat) from the Nigeria Multiple Indicator Cluster Survey.
+The analysis uses the [**NICS Child (CH) dataset**](https://microdata.nigerianstat.gov.ng/index.php/cat) from the Nigeria Multiple Indicator Cluster Survey.
 
 The dataset was provided in SPSS `.sav` format and was imported into Python for analysis.
 
