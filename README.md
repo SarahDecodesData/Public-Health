@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Purpose & Scope](#purpose-&-scope)
 - [Research Question](#research-question)
 - [Data](#data)
 - [Analytical Population](#analytical-population)
@@ -30,6 +31,14 @@ This project examines patterns of measles vaccination coverage among children ag
 The analysis focuses on whether measles vaccination coverage differs across selected demographic and socioeconomic characteristics, including household wealth, maternal education, geopolitical zone, child sex, and child age.
 
 The project uses descriptive analysis and survey weights to estimate vaccination coverage within the analytical sample.
+
+---
+
+## Purpose & Scope
+
+This project was conducted for **learning and portfolio-development purposes only**. It is an independent data-analysis exercise designed to develop practical skills in public health research, epidemiological analysis, Python, and working with survey microdata.
+
+The analysis is not intended to provide clinical, medical, or public health recommendations, and the findings should not be interpreted as official estimates beyond the scope and limitations of the underlying survey data.
 
 ---
 
