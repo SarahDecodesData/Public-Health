@@ -20,6 +20,7 @@
 - [Visualizations](#visualizations)
 - [Limitations](#limitations)
 - [Tools Used](#tools-used)
+- [AI Assistance](#AI-assistance)
 - [Conclusion](#conclusion)
 
 ---
@@ -361,6 +362,14 @@ Other factors that may be associated with measles vaccination were not examined.
 - **GitHub**
 
 The SPSS `.sav` file was imported into Python using `pyreadstat`.
+
+---
+
+# AI Assistance
+
+ChatGPT (OpenAI) was used throughout this project as a learning and development aid. It helped me understand Python and pandas concepts, interpret statistical and data-analysis methods, troubleshoot coding errors, and clarify aspects of working with survey microdata.
+
+I independently carried out the data preparation, analysis, calculations, interpretation of results, and development of the project. I also reviewed and verified the analysis against the original NICS documentation and dataset. ChatGPT was used to support my learning and problem-solving process and was not treated as a source for the project's public health findings.
 
 ---
 
