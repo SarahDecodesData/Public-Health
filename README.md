@@ -64,6 +64,7 @@ The original NICS Child dataset is not included in this repository because the d
 The dataset can be obtained from [**the official source**](https://microdata.nigerianstat.gov.ng/index.php/cat).
 
 The analysis notebooks document the data preparation and analysis steps performed using the locally stored dataset.
+
 ### Outcome Variable
 
 The primary outcome is:
@@ -172,7 +173,7 @@ Vaccination coverage varied substantially across household wealth groups.
 
 Vaccination coverage increased substantially from the poorest to higher wealth groups.
 
-The difference between the poorest and richest groups was approximately **39.86 percentage points**.
+The difference between the poorest and richest groups was approximately **39.86%**.
 
 Coverage was slightly higher in the fourth wealth quintile than in the richest quintile, indicating that the relationship was not perfectly monotonic.
 
