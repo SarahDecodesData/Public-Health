@@ -57,6 +57,13 @@ The dataset was provided in SPSS `.sav` format and was imported into Python for 
 
 The original child dataset contained **29,335 observations**. After restricting the analysis to children aged 12–23 months and valid measles vaccination responses, the final analytical sample contained **2,058 children**.
 
+### Data access
+
+The original NICS Child dataset is not included in this repository because the dataset's terms of use restrict redistribution of the microdata.
+
+The dataset can be obtained from [**the official source**](https://microdata.nigerianstat.gov.ng/index.php/cat).
+
+The analysis notebooks document the data preparation and analysis steps performed using the locally stored dataset.
 ### Outcome Variable
 
 The primary outcome is:
