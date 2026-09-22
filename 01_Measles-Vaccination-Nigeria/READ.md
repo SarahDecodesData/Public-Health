@@ -399,21 +399,3 @@ The analysis showed notable differences in vaccination coverage across household
 This project was undertaken primarily as a **learning exercise in public health data analysis**. It provided practical experience working with survey microdata, preparing and filtering data, handling missing values, applying survey weights, calculating descriptive estimates, and creating visualizations using Python and Jupyter Notebook.
 
 The findings are descriptive and should not be interpreted as evidence of causal relationships. The project demonstrates the process of using real-world public health survey data to investigate patterns in a health outcome while considering the limitations of the available data and analytical approach.
-
-# Project Structure
-
-A suggested project structure is:
-
-```text
-measles-vaccination-nigeria/
-│
-├── README.md
-├── analysis/
-│   └── measles_vaccination_analysis.ipynb
-│
-├── visualizations/
-│   ├── wealth_vaccination.png
-│   ├── education_vaccination.png
-│   └── zone_vaccination.png
-│
-└── .gitignore
