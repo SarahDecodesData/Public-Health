@@ -1,12 +1,10 @@
 # Public Health Data Analysis
 
-A collection of public health data analysis projects exploring health outcomes, population-level patterns, and health inequalities using real-world data and statistical programming tools.
+A collection of public health data analysis projects exploring health outcomes and population-level patterns using real-world data and statistical programming tools.
 
 ## About This Repository
 
-This repository documents my learning and practical work in public health data analysis. The projects focus on applying data analysis techniques to real-world health and population data, with an emphasis on understanding patterns, interpreting findings, and communicating results clearly.
-
-The repository is also intended to demonstrate my developing skills in data management, statistical analysis, and data visualization using Python.
+This repository documents my learning and practical skills in public health data analysis, with an emphasis on understanding patterns, interpreting findings, and communicating results clearly.
 
 ## Projects
 
@@ -59,10 +57,9 @@ My current focus is on developing practical skills at the intersection of:
 * Epidemiology
 * Biological and health data analysis
 * Statistical programming
-* Health inequalities
 * Data visualization
 
-The projects in this repository are primarily **learning and portfolio projects**. They are intended to demonstrate my ability to work through a public health data-analysis workflow, from preparing data to interpreting and communicating results.
+The projects in this repository are primarily learning and portfolio projects. They are intended to demonstrate my ability to work through a public health data-analysis workflow, from preparing data to interpreting and communicating results.
 
 ## Future Projects
 
