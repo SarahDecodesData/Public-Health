@@ -307,8 +307,17 @@ The sex groups were relatively balanced. Sample sizes also varied across educati
 Three main visualizations were created to communicate the key patterns in vaccination coverage:
 
 1. **Measles vaccination rate by household wealth**
+
+<img width="2400" height="1500" alt="wealth_vaccination" src="https://github.com/user-attachments/assets/25bb07fa-a2e6-4e11-b9ff-95fdde2aef80" />
+
 2. **Measles vaccination rate by maternal education**
+
+<img width="2400" height="1500" alt="education_vaccination" src="https://github.com/user-attachments/assets/12184c9f-fd2a-48bb-9a03-9f5ea44877dc" />
+
 3. **Measles vaccination rate by geopolitical zone**
+
+<img width="2700" height="1500" alt="zone_vaccination" src="https://github.com/user-attachments/assets/1bb68d4c-1616-459b-9fd9-924ed9c260a6" />
+
 
 These visualizations highlight the larger differences observed across socioeconomic and geographic characteristics.
 
@@ -380,6 +389,16 @@ ChatGPT (OpenAI) was used throughout this project as a learning and development 
 I independently carried out the data preparation, analysis, calculations, interpretation of results, and development of the project. I also reviewed and verified the analysis against the original NICS documentation and dataset. ChatGPT was used to support my learning and problem-solving process and was not treated as a source for the project's public health findings.
 
 ---
+
+# Conclusion
+
+This project examined measles vaccination coverage among children aged 12–23 months in the NICS sample using weighted descriptive analysis. The overall weighted vaccination coverage was 69.32%.
+
+The analysis showed notable differences in vaccination coverage across household wealth, maternal education, and geopolitical zones. Coverage was substantially higher among children from higher-wealth households and among those whose mothers had higher levels of formal education. Geographic differences were also observed across Nigeria's geopolitical zones. In comparison, differences by child sex were relatively small, while vaccination rates varied across individual ages from 12 to 23 months without showing a consistent pattern.
+
+This project was undertaken primarily as a **learning exercise in public health data analysis**. It provided practical experience working with survey microdata, preparing and filtering data, handling missing values, applying survey weights, calculating descriptive estimates, and creating visualizations using Python and Jupyter Notebook.
+
+The findings are descriptive and should not be interpreted as evidence of causal relationships. The project demonstrates the process of using real-world public health survey data to investigate patterns in a health outcome while considering the limitations of the available data and analytical approach.
 
 # Project Structure
 
