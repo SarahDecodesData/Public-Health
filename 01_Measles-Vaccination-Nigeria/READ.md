@@ -37,7 +37,7 @@ The project uses descriptive analysis and survey weights to estimate vaccination
 
 ## Purpose & Scope
 
-This project was conducted for **learning and portfolio-development purposes only**. It is an independent data-analysis exercise designed to develop practical skills in public health research, epidemiological analysis, Python, and working with survey microdata.
+This project was conducted for **learning and portfolio-development purposes only**. It is an independent data-analysis exercise designed to develop practical skills in public health research, epidemiological analysis, and Python.
 
 The analysis is not intended to provide clinical, medical, or public health recommendations, and the findings should not be interpreted as official estimates beyond the scope and limitations of the underlying survey data.
 
@@ -63,7 +63,7 @@ The original NICS Child dataset is not included in this repository because the d
 
 The dataset can be obtained from [**the official source**](https://microdata.nigerianstat.gov.ng/index.php/cat).
 
-The analysis notebooks document the data preparation and analysis steps performed using the locally stored dataset.
+[**The analysis notebooks**](01_Measles-Vaccination-Nigeria/01_Notebook) document the data preparation and steps of the analysis.
 
 ### Outcome Variable
 
@@ -151,9 +151,7 @@ The analysis is descriptive and does not attempt to establish causal relationshi
 
 ## Overall Vaccination Coverage
 
-The weighted measles vaccination coverage among children aged 12–23 months was:
-
-### **69.32%**
+The weighted measles vaccination coverage among children aged 12–23 months was: **69.32%**
 
 The corresponding unweighted vaccination rate was approximately **67.05%**.
 
@@ -353,7 +351,7 @@ This reduction occurred because the analysis focused specifically on children ag
 
 Survey weights were incorporated into the calculation of vaccination coverage.
 
-However, this project does not implement a full complex-survey variance estimation procedure. Therefore, the analysis focuses on weighted descriptive estimates rather than confidence intervals or statistical significance testing.
+However, this project does not implement a full complex-survey variance estimation procedure. Therefore, the analysis focuses on weighted descriptive estimates rather than statistical significance testing.
 
 ### 5. Age-specific estimates
 
@@ -376,7 +374,6 @@ Other factors that may be associated with measles vaccination were not examined.
 - **Pandas**
 - **Pyreadstat**
 - **Matplotlib**
-- **GitHub**
 
 The SPSS `.sav` file was imported into Python using `pyreadstat`.
 
